@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Catkoo/Catkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning in Sekolah Tinggi Teknologi Indonesia Tanjung Pinang
+- 💬 Ask me about [Instagram](https://instagram.com/catkoo_)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/catkoo)
 
-Here are some ideas to get you started:
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
+
+## My Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
