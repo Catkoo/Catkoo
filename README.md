@@ -12,11 +12,11 @@
 </p>
 
 ## Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Node.js](https://nodejs.org/en)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://img.shields.io/badge/-PHP-333?style=flat&logo=php" /></a>
+<a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://img.shields.io/badge/-HTML-333?style=flat&logo=html5" /></a>
 
 ## My GitHub Statistics
 
