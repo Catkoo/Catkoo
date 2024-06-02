@@ -19,8 +19,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 
 ## My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true)
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&langs_count=8)
-
+<p align="left">
+<a href="https://github.com/Catkoo">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Catkoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Catkoo&layout=compact&theme=algolia"/>
+</a>
+</p>
