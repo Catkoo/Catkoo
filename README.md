@@ -2,7 +2,7 @@
 
 ## About Me :
 - 👨‍💻 Bangkit Academy Cohort 2024 - Cloud Computing
-- 🌱 I'm currently learning in Sekolah Tinggi Teknologi Indonesia Tanjung Pinang
+- 🌱 I graduated from Sekolah Tinggi Teknologi Indonesia Tanjung Pinang 2024
 - 💬 Ask me about [Instagram](https://instagram.com/catkoo_)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/catkoo)
   
