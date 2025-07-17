@@ -37,14 +37,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catkoo&layout=compact&theme=algolia&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Catkoo&theme=algolia&hide_border=true" />
-</p>
-
 ---
 
 ## 📈 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/catkoo/count.svg" />
+  <img src="https://api.countapi.xyz/hit/github.com-catkoo/visits?style=flat-square&label=Visitors&color=0E75B6" alt="Visitor Count"/>
 </p>
