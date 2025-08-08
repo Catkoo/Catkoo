@@ -1,32 +1,27 @@
 <h1 align="center">Hi there 👋, I'm Richard Khoo</h1>
-<h3 align="center">Web Developer | Backend Developer | Cloud Enthusiast</h3>
+<h3 align="center">Web Developer | Moblie Developer | UI/UX design</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/catkoo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/catkoo_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Bangkit-Cloud%20Computing%202024-blue?style=flat&logo=google-cloud" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Web Developer and Cloud Enthusiast, recently graduated from **Sekolah Tinggi Teknologi Indonesia Tanjung Pinang (2024)**.  
-I enjoy solving real-world problems with technology and am constantly learning to improve my skills in backend development, cloud infrastructure, and DevOps.
+I'm Richard Khoo, a magna cum laude graduate in Informatics Engineering (GPA 3.70) from STTI Tanjung Pinang. I specialize in backend development with Node.js, Express.js, and Firebase, and have experience deploying cloud-based systems on Google Cloud through the Bangkit 2024 capstone project. I enjoy learning new technologies and working in collaborative environments.
 
 - 🎓 Graduate of **STTI Tanjung Pinang** — Class of 2024  
 - ☁️ Alumni of **Bangkit Academy 2024 — Cloud Computing Cohort**  
 - 🌱 Currently exploring **Cloud | Backend | DevOps**
-- 📫 Reach me on [**LinkedIn**](https://linkedin.com/in/catkoo)
 
 <details>
   <summary>🌐 Bahasa Indonesia</summary>
 
-Halo! Saya Richard Khoo, lulusan STTI Tanjung Pinang dan alumni Bangkit 2024. Saya memiliki minat kuat di bidang pengembangan backend, cloud computing, dan DevOps. Saya sedang aktif mengembangkan proyek pribadi serta terbuka untuk peluang kerja atau kolaborasi.
+Saya Richard Khoo, lulusan magna cum laude (IPK 3.70) dari STTI Tanjung Pinang. Saya fokus pada pengembangan backend dengan Node.js, Express.js, dan Firebase, serta memiliki pengalaman menerapkan sistem berbasis cloud melalui proyek capstone Bangkit 2024. Saya senang belajar hal baru dan bekerja dalam tim.
 
 </details>
 
@@ -52,10 +47,10 @@ Halo! Saya Richard Khoo, lulusan STTI Tanjung Pinang dan alumni Bangkit 2024. Sa
 
 ## 📂 Featured Projects
 
-- 🔧 [**MyNotePlus (Flutter)**](https://github.com/Catkoo/MyNotePlus_Flutter)  
+- 📱 [**MyNotePlus (Flutter)**](https://github.com/Catkoo/MyNotePlus_Flutter)  
   A modern, lightweight, and practical personal notes and movie/drama app. Built with Flutter & Firebase.
 
-- 📱 [**ArgoTrack Backend**](https://github.com/ArgoTrack-Bangkit/Cloud-Computing)  
+- 🔧 [**ArgoTrack Backend**](https://github.com/ArgoTrack-Bangkit/Cloud-Computing)  
   ArgoTrack emerges as an innovative solution, designed to aid tomato farmers and the general public in enhancing farm productivity and efficiency. Utilizing mobile phone camera scanning technology, the       platform furnishes real-time imagery of tomato health, enabling farmers to swiftly discern issues such as diseases, pests, or nutrient deficiencies.
   
 ---
