@@ -3,10 +3,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/catkoo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/catkoo_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/catkoo_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
 </p>
+
 
 ---
 
@@ -31,8 +37,8 @@ Saya Richard Khoo, lulusan magna cum laude (IPK 3.70) dari STTI Tanjung Pinang. 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
