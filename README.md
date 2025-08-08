@@ -2,18 +2,20 @@
 <h3 align="center">Web Developer | Moblie Developer | UI/UX design</h3>
 
 <p align="center">
+  <a href="https://catkoo.dev](https://richard-khoo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://linkedin.com/in/catkoo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://instagram.com/catkoo_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="24" height="24" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
-  <a href="https://x.com/Catkoo_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="24" height="24" />
-  </a>
+<!--   <a href="https://x.com/Catkoo_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=simple-icons&logoColor=white" alt="X (Twitter)" />
+  </a> -->
 </p>
+
 
 ---
 
