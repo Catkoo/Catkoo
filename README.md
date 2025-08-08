@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Moblie Developer | UI/UX design</h3>
 
 <p align="center">
-  <a href="https://catkoo.dev](https://richard-khoo.vercel.app" target="_blank">
+  <a href="https://richard-khoo.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/catkoo" target="_blank">
